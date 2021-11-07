@@ -1,0 +1,3 @@
+# Javascript Design Patterns Course 
+## Dmitri Nesteruk
+## Source Codes As Sample...
